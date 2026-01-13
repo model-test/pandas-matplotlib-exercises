@@ -16,3 +16,8 @@ Each folder contains an exercise
   - Bar chart visualizing the average exam score by major
   - Scatter chart visualizing the correlation between study time and exam score
   - Includes figure title, plot title, axis labels, and saved output
+
+- **api-data-analysis/**
+  - Bar chart visualizing the total spending per category
+  - Data pulled from JSON file
+  - Includes figure, title, axis labels, customized colors, data annotation, grid, and saved output
