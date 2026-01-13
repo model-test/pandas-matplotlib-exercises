@@ -1,6 +1,6 @@
 # API Data Analysis
 
-This project demonstrates how to process API-style JSON data using Pandas + Matplotlib.
+This project demonstrates how to process API-style JSON data using Pandas + Matplotlib. API response is loaded from JSON file.
 
 1. Total Spending per Category
    - Horizontal bar chart visualizing total spending amounts per category
