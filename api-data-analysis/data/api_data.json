@@ -1,0 +1,14 @@
+{
+    "transactions": [
+        {"date": "2026-01-01", "category": "Food", "amount": 12.50},
+        {"date": "2026-01-01", "category": "Transport", "amount": 15.00},
+        {"date": "2026-01-02", "category": "Food", "amount": 8.75},
+        {"date": "2026-01-02", "category": "entertainment", "amount": 20.00},
+        {"date": "2026-01-03", "category": "Bills", "amount": 120.00},
+        {"date": "2026-01-03", "category": "Food", "amount": 18.50},
+        {"date": "2026-01-04", "category": "Transport", "amount": 7.25},
+        {"date": "2026-01-04", "category": "Entertainment", "amount": 10.00},
+        {"date": "2026-01-05", "category": "Bills", "amount": 60.00},
+        {"date": "2026-01-06", "category": "Food", "amount": 30.00}
+    ]
+}
