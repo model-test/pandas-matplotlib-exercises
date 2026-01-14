@@ -1,0 +1,6 @@
+               total_spent  avg_spent  transaction_count
+category                                                
+Transport            22.25    11.1250                  2
+Entertainment        30.00    15.0000                  2
+Food                 69.75    17.4375                  4
+Bills               180.00    90.0000                  2
