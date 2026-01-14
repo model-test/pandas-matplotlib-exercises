@@ -18,6 +18,8 @@ Each folder contains an exercise
   - Includes figure title, plot title, axis labels, and saved output
 
 - **api-data-analysis/**
-  - Bar chart visualizing the total spending per category
+  - Horizontal bar chart visualizing the total spending per category
   - Data pulled from JSON file
+  - Horizontal bar chart visualizing the average spending per category
+  - Transaction size vs Total spending
   - Includes figure, title, axis labels, customized colors, data annotation, grid, and saved output
