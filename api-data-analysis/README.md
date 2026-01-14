@@ -6,8 +6,10 @@ This project demonstrates how to process API-style JSON data using Pandas + Matp
    - Horizontal bar chart visualizing total spending amounts per category
    - Bills covers the highest total spending over any other category
 2. Average Transaction Size per Category
+   - Horizontal bar chart visualizing average spending amounts per category
    - Bills covers the highest average transaction size
-   - Chart is WIP
+3. Summary Table
+   - Despite the category "Food" having the highest transaction count, "Bills" has the highest total spending due to the difference in transaction sizes.
 
 ## Key Note
 
