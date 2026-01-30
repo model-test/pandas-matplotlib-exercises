@@ -23,3 +23,9 @@ Each folder contains an exercise
   - Horizontal bar chart visualizing the average spending per category
   - Transaction size vs Total spending
   - Includes figure, title, axis labels, customized colors, data annotation, grid, and saved output
+
+- **spending_data_analyzing/**
+  - Bar chart visualizing the total spending per category
+  - Line plot visualizing the daily spending over time
+  - Analysis and insights for both plots
+  - Includes two figures, axis labels, titles, grid, and saved output
